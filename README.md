@@ -1,3 +1,3 @@
 # AD hosts
-credit: [AdAway's default hosts sources](https://github.com/AdAway/AdAway/wiki/HostsSources#adaways-default-hosts-sources)
+credit: [Unified hosts file with base extensions](https://github.com/StevenBlack/hosts#list-of-all-hosts-file-variants)
 
