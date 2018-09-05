@@ -56,7 +56,3 @@ address=/feedly.com/127.0.0.1
 address=/vimeo.com/127.0.0.1
 address=/s3.amazonaws.com/127.0.0.1
 
-address=/telegram.org/127.0.0.1
-address=/telegram.me/127.0.0.1
-address=/t.me/127.0.0.1
-
